@@ -6,6 +6,8 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
+    background: url('../img/background.jpg') no-repeat center center fixed; /* adjust the path as necessary */
+  background-size: cover;
 }
 
 .song {
@@ -312,3 +314,4 @@ body {
     font-size: 8rem;
   }
 }
+
